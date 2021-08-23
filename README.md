@@ -7,7 +7,7 @@ Rules:
 - If you are guessing to low or high you will have a message that says that
 - If you are not writing a number it's going to show a message aswell
 - If you guess the number you will receive a message and the highscore will be changed.
-- To play again hit restart, the highscore won't reset only if you reload the game.
+- To play again hit "Again", the highscore won't reset only if you reload the game.
 
 How to play:
 
